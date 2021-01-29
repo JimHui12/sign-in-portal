@@ -1,3 +1,3 @@
 # sign-in-portal
 -Sign in
-    User name
+    User name label, input
